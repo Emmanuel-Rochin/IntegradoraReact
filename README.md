@@ -1,2 +1,2 @@
-# IntegradoraReact
+# integradorareact
 PrimerTrabajoReact
